@@ -22,7 +22,7 @@ Official openID
 - Last update: Dec 12, 2024 
 - Data: JWT (...) 
 - Review: Working
-- Algorithm: AES-256-CBC
+- Algorithm: AES-256-CBC or RS256
 - Authentication Type: Authentication Code Flow
 - PKCE: No
 </details>

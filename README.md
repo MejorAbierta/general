@@ -53,6 +53,12 @@ Official openID
 > The ORCID Public **API is free for non-commercial use by individuals** as stated in the [Public APIs Terms of Service](https://info.orcid.org/public-client-terms-of-service/).
 > ORCID's current Rate Limit is 24 requests per second for the Member, Public, and Anonymous APIs
 
+# Rediris
+**Rediris** has an OpenID implementation:
+[How to implement OpenId with Rediris](https://www.rediris.es/sir/howto-openid.html)
+For use rediris is needed sign up here getting in touch with the organization https://www.rediris.es/sir/contacto.html.
+
+
 </details>
 
 <details>

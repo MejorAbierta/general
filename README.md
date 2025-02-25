@@ -49,8 +49,8 @@ Official openID
   Notes:
 > **Only HTTPS** URIs are accepted in production
 > Domains registered MUST exactly match the domains used, including subdomains
-> Register all redirect URIs fully where possible. This is the most secure option and what we recommend. For more information about redirect URIs, please see our redirect URI FAQ
-> The ORCID Public **API is free for non-commercial use by individuals** as stated in the Public APIs Terms of Service. By “non-commercial” we mean that you may not charge any re-use fees for the Public API, and you may not make use of the Public API in connection with any revenue-generating product or service.
+> Register all redirect URIs fully where possible. This is the most secure option and what we recommend.
+> The ORCID Public **API is free for non-commercial use by individuals** as stated in the [Public APIs Terms of Service](https://info.orcid.org/public-client-terms-of-service/).
 
 </details>
 

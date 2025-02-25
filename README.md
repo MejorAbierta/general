@@ -51,6 +51,7 @@ Official openID
 > Domains registered MUST exactly match the domains used, including subdomains
 > Register all redirect URIs fully where possible. This is the most secure option and what we recommend.
 > The ORCID Public **API is free for non-commercial use by individuals** as stated in the [Public APIs Terms of Service](https://info.orcid.org/public-client-terms-of-service/).
+> ORCID's current Rate Limit is 24 requests per second for the Member, Public, and Anonymous APIs
 
 </details>
 

@@ -79,4 +79,8 @@ Official shibboleth
  - Tested Ver: 3.3, 3.2
 </details>
 
+---
+
+### Fecyt plugin analysis
+[Fecyt plugin analysis](fecyt-plugin-analysis.md)
 

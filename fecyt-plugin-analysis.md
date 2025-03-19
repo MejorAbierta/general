@@ -71,6 +71,24 @@ SELECT COUNT(DISTINCT s.submission_id) AS count
               AND ed.date_decided <= ?
 ```
 
+* 3.4 alternate code:
+```php
+
+$submissions = Repo::submission()
+       ->getCollector()
+       ->filterByContextIds([$context])
+       ->filterByStatus([Submission::STATUS_PUBLISHED])
+       ->getMany();
+
+```
+* Filter by dates
+```php
+$filteredElements = $submissions->filter(function ($element) {
+            return $element->getData("dateSubmitted") >= $dateFrom && $element->getData("dateSubmitted") <= $dateTo;
+        });
+```
+
+
 ---
 ### Submissions
 

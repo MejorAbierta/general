@@ -4,8 +4,8 @@ Welcome to the MejorAbierta project repository! This initiative focuses on devel
 
 ## Current Focus
 * Expand OpenID Support:
-  - [ ] Enhance the existing OpenID plugin with multi-configuration capabilities, integrate common providers.
-  - [ ] Test redIris implementation.
+  - [ ] Enhance the existing OpenID plugin with expandable configuration capabilities.
+  - [ ] Test RedIris implementation.
   - [ ] Test OperasID.
   - [ ] Add new common configurations(RedIris, OperasID).
 

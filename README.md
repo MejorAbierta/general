@@ -1,23 +1,33 @@
-# General stuff for the project
+# MejorAbierta
 
-This is general stuff for the project MejorAbierta, aimed to produce plugins and other software for OJS, OMP, etc.
+Welcome to the MejorAbierta project repository! This initiative focuses on developing plugins and software enhancements for Open Journal Systems (OJS), Open Monograph Press (OMP), and related platforms to improve authentication, data management, and interoperability.
+
+## Current Focus
+* Expand OpenID Support:
+  - [ ] Enhance the existing OpenID plugin with multi-configuration capabilities, integrate common providers.
+  - [ ] Test redIris implementation.
+  - [ ] Test OperasID.
+  - [ ] Add new common configurations(RedIris, OperasID).
+
+* [MejorAbiertaPlugin](https://github.com/MejorAbierta/mejorAbiertaPlugin): Create plugins to facilitate seamless data exportation.
+
 
 ---
 
 
-# State of the art
+### State of the art
 
-A brief review of the different SSO projects avaliable in OJS/OMP:
+A review of the different SSO/Auth projects avaliable in OJS/OMP:
 
-
+(Click for expand)
 <details>
 <summary>
-Official openID
+Official openID ✅
 </summary>
 
 [Repo Official openID](https://github.com/pkp/openid) 
 - Developer: PKP 
-- Ver: OJS 3.4.0 (LATEST) 
+- Ver: OJS 3.4.0
 - Protocol: openID
 - Last update: Dec 12, 2024 
 - Data: (RS256) JWT : 
